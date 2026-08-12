@@ -1,0 +1,7 @@
+[user]
+	name = 본인이름
+	email = GitHub이메일주소
+[init]
+	defaultBranch = main
+[credential]
+	helper = osxkeychain
